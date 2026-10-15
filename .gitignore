@@ -67,3 +67,6 @@ ENV/
 # Node.js
 node_modules/
 npm-debug.log*
+
+# Machine-local Claude Code settings
+**/.claude/settings.local.json
